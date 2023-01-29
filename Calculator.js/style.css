@@ -57,3 +57,10 @@ color: #fff;
     color: rgb(255, 255, 255);
     background-color: rgb(163, 22, 182);
 }
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 50px;
+}
